@@ -82,13 +82,13 @@ React • FastAPI • Python • Supabase
 
 ## 📊 GitHub Stats
 
-![Ayanjyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ayanjyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanjyoti2003&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ayanjyoti2003&theme=tokyonight)
 
 ---
 
