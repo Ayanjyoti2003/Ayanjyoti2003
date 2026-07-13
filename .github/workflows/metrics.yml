@@ -23,7 +23,7 @@ jobs:
 
           user: Ayanjyoti2003
 
-          template: classic
+          template: markdown
 
           base: header, activity, community, repositories, metadata
 
