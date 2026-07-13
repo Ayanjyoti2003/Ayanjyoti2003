@@ -211,8 +211,3 @@ Modern full-stack e-commerce application with authentication, shopping cart, pro
 <p align="center">
   <i>Building intelligent software that solves real-world problems.</i>
 </p>
-
-
-<p align="center">
-Building intelligent software for real-world problems.
-</p>
