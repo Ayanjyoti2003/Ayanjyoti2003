@@ -199,8 +199,6 @@ Modern full-stack e-commerce application with authentication, shopping cart, pro
 
 <h2 align="center">Connect With Me</h2>
 
-<h2 align="center">Connect With Me</h2>
-
 <table align="center">
   <tr>
     <td><a href="https://ajb-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio"/></a></td>
