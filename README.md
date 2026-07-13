@@ -143,23 +143,27 @@ Modern full-stack e-commerce application with authentication, shopping cart, pro
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 Development Dashboard
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayanjyoti2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanjyoti2003&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayanjyoti2003&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanjyoti2003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ayanjyoti2003&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ayanjyoti2003&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayanjyoti2003&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayanjyoti2003&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayanjyoti2003&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="./github-metrics.svg" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayanjyoti2003/Ayanjyoti2003/output/github-snake-dark.svg" />
 </p>
 
 ---
