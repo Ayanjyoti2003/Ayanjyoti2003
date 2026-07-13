@@ -162,10 +162,6 @@ Modern full-stack e-commerce application with authentication, shopping cart, pro
   <img src="./github-metrics.svg" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayanjyoti2003/Ayanjyoti2003/output/github-snake-dark.svg" />
-</p>
-
 ---
 
 ## 🐍 Contribution Graph

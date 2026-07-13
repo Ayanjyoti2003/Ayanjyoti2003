@@ -3,7 +3,6 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -11,21 +10,20 @@ permissions:
 
 jobs:
   github-metrics:
-
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Generate Metrics
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
 
         with:
+          filename: github-metrics.svg
 
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: Ayanjyoti2003
 
-          template: terminal
+          template: classic
 
           base: header, activity, community, repositories, metadata
 
@@ -36,19 +34,20 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
           plugin_languages_indepth: yes
-
-          plugin_isocalendar: yes
-
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_languages_details: percentage
 
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 30
 
-          plugin_repositories: yes
-          plugin_repositories_featured: Ayanjyoti2003/AI-attendance,Ayanjyoti2003/Job-Shield,Ayanjyoti2003/Gym-Tracker
+          plugin_isocalendar: yes
 
-          filename: github-metrics.svg
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+
+          plugin_repositories: yes
+          plugin_repositories_featured: >
+            Ayanjyoti2003/Gym-Tracker,
+            Ayanjyoti2003/AI-Attendance-System,
+            sourav-bhowal/job-intelligence-platform
