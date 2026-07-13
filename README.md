@@ -90,8 +90,10 @@ AI-powered employee recognition and attendance platform featuring face recogniti
 `React` • `FastAPI` • `Python` • `Postgresql` • `Computer Vision` • `Typescript` • `Javascript`
 
 <p>
-  <a href="...">
+  <a href="https://github.com/Ayanjyoti2003/AI-Attendance-System">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel">
   </a>
 </p>
