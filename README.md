@@ -1,264 +1,192 @@
-<!-- Banner -->
-
-<h1 align="center">
-Hi 👋, I'm Ayanjyoti Bora
-</h1>
-
-<h3 align="center">
-Full Stack Developer • AI Enthusiast • Building Intelligent Software
-</h3>
+# <!-- GitHub Profile README -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;React+%7C+Next.js+%7C+FastAPI;Building+Real+World+AI+Solutions;Always+Learning+Something+New" />
+  <img src="./assets/banner.svg" alt="Ayanjyoti Bora Banner" width="100%">
+</p>
+
+<h1 align="center">Ayanjyoti Bora</h1>
+
+<h3 align="center">Full Stack Developer • AI Application Developer</h3>
+
+<p align="center"><i>Building intelligent software for real-world problems.</i></p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI-powered+Web+Applications;Developing+Cross-platform+Mobile+Apps;IBM+National+Hackathon+Finalist;Full+Stack+Developer;Always+Learning.+Always+Building." />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ayanjyoti2003&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Ayanjyoti2003?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Ayanjyoti2003?style=for-the-badge"/>
-
+<a href="https://github.com/Ayanjyoti2003?tab=followers"><img src="https://img.shields.io/github/followers/Ayanjyoti2003?style=for-the-badge&label=Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ayanjyoti2003&style=for-the-badge&label=Profile+Views"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm a **Full Stack Developer** passionate about building intelligent web and mobile applications powered by Artificial Intelligence.
+I'm a Full Stack Developer passionate about building AI-powered web and mobile applications that solve real-world problems.
 
-I enjoy solving real-world problems using modern technologies and continuously learning scalable software engineering practices.
+I enjoy developing responsive frontends with **React.js** and **Next.js**, scalable backends using **Node.js**, **Express.js** and **FastAPI**, and integrating AI into practical software products.
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Full Stack Developer
+- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
+- 🏆 IBM National Hackathon 2025 Finalist
+- 💼 Full Stack Development Intern
 - 🤖 AI Application Developer
-- 🏆 IBM National Hackathon Finalist
-- 🌱 Currently learning Machine Learning & System Design
-- 🚀 Interested in AI, Backend Systems & Product Development
+- 🌱 Currently learning Machine Learning & Scalable Backend Systems
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Focus
 
-- 🤖 AI Attendance System
-- 🛡️ Job Shield (AI Job Analysis Platform)
-- 🧠 Learning scalable backend architecture
-- 📱 Building AI-powered mobile applications
+- Intelligent Office Access System
+- Job Shield
+- AI-powered mobile applications
+- Backend architecture
+- Computer Vision
 
 ---
 
-# 🛠 Tech Stack
+# 💡 Areas of Interest
+
+- Artificial Intelligence
+- Computer Vision
+- Full Stack Development
+- Scalable Backend Systems
+- Cloud Deployment
+- Developer Experience
+
+---
+
+# 🛠 Tech Arsenal
 
 ## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/>
-
-</p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/></p>
 
 ## Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/></p>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-
-</p>
+## Mobile
+<p><img src="https://skillicons.dev/icons?i=react"/></p>
 
 ## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/></p>
 
 ## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase"/>
-
-</p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase"/></p>
 
 ## Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma"/></p>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel"/>
-
-</p>
+**Also experienced with:** Render • Expo • REST APIs • Firebase Authentication
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Work
 
 ## 🤖 Intelligent Office Access System
+AI-powered employee recognition and attendance platform featuring face recognition, pose estimation, tailgating detection, real-time attendance, admin dashboard and offline-first architecture.
 
-AI-powered contactless office access system built for the IBM National Hackathon.
+**Stack:** React • FastAPI • Python • Supabase • Computer Vision
 
-### Features
-
-- Face Recognition
-- Pose Estimation
-- Tailgating Detection
-- Admin Dashboard
-- Real-time Attendance
-- Offline Support
-
-**Tech**
-
-React • FastAPI • Python • OpenCV • Supabase
+> 🔗 Repository: *Add Link*
 
 ---
 
-## 🛡️ Job Shield
+## 🛡 Job Shield
+AI-powered job analysis platform for resume evaluation, scam detection, job matching and community reporting.
 
-AI-powered platform that helps users identify fraudulent job postings while providing resume analysis and job matching.
+**Stack:** Next.js • TypeScript • Tailwind CSS
 
-### Features
-
-- AI Resume Analysis
-- Scam Detection
-- Job Matching
-- Community Scam Reports
-- Analytics Dashboard
-
-**Tech**
-
-Next.js • TypeScript • Tailwind CSS • FastAPI
+> 🔗 Repository: *Add Link*
 
 ---
 
-## 🏋️ Gym Tracker
+## 🏋 Gym Tracker
+Cross-platform AI fitness application with workout tracking, AI coach, Firebase authentication, cloud sync and offline mode.
 
-Cross-platform AI fitness application.
+**Stack:** React Native (Expo) • Firebase
 
-### Features
-
-- Workout Tracking
-- Exercise Library
-- AI Fitness Coach
-- Offline Support
-- Google Authentication
-- Analytics Dashboard
-
-**Tech**
-
-React Native • Firebase • AI APIs
+> 🔗 Repository: *Add Link*
 
 ---
 
 ## 🛒 MiniShop
+Modern full-stack e-commerce application with authentication, shopping cart, product filtering and REST APIs.
 
-Modern Full Stack E-Commerce Platform.
+**Stack:** React • Node.js • MongoDB • Firebase
 
-### Features
-
-- Authentication
-- Product Search
-- Shopping Cart
-- Responsive Design
-- REST APIs
-
-**Tech**
-
-React • Node.js • MongoDB • Firebase
+> 🔗 Repository: *Add Link*
 
 ---
 
-# 🏆 Achievements
+# 🏆 Experience & Achievements
 
-🥈 IBM National Hackathon Finalist
+## IBM National Hackathon 2025
+- Finalist
+- Led a 4-member team
+- Built an AI-powered employee recognition and attendance system.
 
-💼 Full Stack Development Internship
-
-📱 Developed multiple AI-powered applications
-
-🚀 Passionate about building production-ready software
+## Full Stack Web Development Intern
+- Developed and deployed full-stack applications.
+- Integrated authentication and REST APIs.
+- Worked with Git, GitHub, Vercel and Render.
 
 ---
 
-# 📈 GitHub Analytics
+# 📜 Certifications
+
+- IBM Generative AI for Software Developers
+- IBM Artificial Intelligence Fundamentals
+- MongoDB Basics
+- SQL to MongoDB
+- Angular
+- JavaScript Development
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayanjyoti2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanjyoti2003&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Ayanjyoti2003&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayanjyoti2003&theme=tokyo-night&hide_border=true"/>
-
 </p>
-
----
-
-# 🏅 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Ayanjyoti2003&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </p>
-
----
-
-# ⚡ Fun Facts
-
-- 🤖 I enjoy building AI-powered products that solve practical problems.
-- 💡 I like exploring new technologies and turning ideas into working software.
-- 🎯 My goal is to become a Software Engineer building impactful AI systems.
-- ☕ Most of my debugging sessions end with discovering it was a tiny mistake.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+- 🌍 Portfolio: https://ajb-portfolio.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/ayanjyoti-bora
+- 📧 Email: ayanjyotibora8@gmail.com
+- 💻 GitHub: https://github.com/Ayanjyoti2003
 
-<a href="https://ajb-portfolio.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/ayanjyoti-bora">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+# 📌 Repository Roadmap
 
-<a href="mailto:ayanjyotibora8@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+Pin these repositories:
 
-<a href="https://github.com/Ayanjyoti2003">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+1. Intelligent Office Access System
+2. Job Shield
+3. Gym Tracker
+4. Portfolio
+5. MiniShop
+6. Best future project / Open Source
 
 ---
 
 <p align="center">
-
-### 💙 Thanks for visiting!
-
-*"Code. Learn. Build. Repeat."*
-
+<b>Code. Learn. Build. Repeat.</b><br>
+Thanks for visiting my profile!
 </p>
