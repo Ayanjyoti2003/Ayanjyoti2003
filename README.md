@@ -164,6 +164,14 @@ Modern full-stack e-commerce application with authentication, shopping cart, pro
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayanjyoti2003/Ayanjyoti2003/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 - 🌍 Portfolio: https://ajb-portfolio.vercel.app
