@@ -1,7 +1,7 @@
 # <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Ayanjyoti Bora Banner" width="100%">
+  <img src="./assets/banner.png" alt="Ayanjyoti Bora Banner" width="100%">
 </p>
 
 <h1 align="center">Ayanjyoti Bora</h1>
